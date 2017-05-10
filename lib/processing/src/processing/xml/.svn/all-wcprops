@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml
+END
+CDATAReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/CDATAReader.java
+END
+XMLValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/XMLValidator.java
+END
+XMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/XMLElement.java
+END
+XMLParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/XMLParseException.java
+END
+XMLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/XMLException.java
+END
+XMLEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/XMLEntityResolver.java
+END
+StdXMLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/StdXMLBuilder.java
+END
+XMLAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/XMLAttribute.java
+END
+StdXMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/StdXMLParser.java
+END
+XMLValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/XMLValidationException.java
+END
+PIReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/PIReader.java
+END
+XMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/XMLWriter.java
+END
+ContentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/ContentReader.java
+END
+StdXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/StdXMLReader.java
+END
+XMLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7956/tags/processing-1.5.1/core/src/processing/xml/XMLUtil.java
+END
